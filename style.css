@@ -1,0 +1,24 @@
+
+h1{
+    color:green
+}
+ .my-para{
+    /* color: rgb(243, 103, 9); */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+ }
+ .sec-head
+ {
+    /* color: black; */
+ }
+ #sub-head{
+font-weight: bold;
+color: aqua;
+font-size: 45px;
+ }
+ p::first-line{
+   font-weight: bold;
+ }
+ p,h1,h2{
+    color: green;
+ }

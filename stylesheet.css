@@ -1,0 +1,45 @@
+img{
+    height: 400px;
+    width: 300px;
+  
+}
+div{
+    width: 50%;
+    font-size: 30px;
+    color: rgb(243, 9, 9);
+    height: 500px; 
+}
+#pic{
+    margin-left: 200px;
+}
+.one{
+    float:left;
+
+}
+.two{
+    float:left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+.tab{
+ margin-left: 230px;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.but{
+    color: black;
+    padding: 10px  10px;
+    background-color: aqua;
+    margin-left: 650px;
+}
+.but:hover{
+    background-color: white;
+}
+h1{ 
+    color: crimson;
+}
+p{
+    color: rgb(6, 131, 31);
+}
+header{
+    text-align: center;
+}
